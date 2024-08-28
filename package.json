@@ -11,7 +11,10 @@
   "author": "Gary Allen",
   "license": "",
   "devDependencies": {
-    "typescript": "^5.3.3",
-    "chevrotain": "^11.0.3"
+    "chevrotain": "^11.0.3",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@allen508/pitch": "^1.0.2"
   }
 }

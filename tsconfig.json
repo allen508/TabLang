@@ -12,5 +12,9 @@
 		"strict": true,
         "outDir": "./lib",
         "declaration": true,
-	}
+	},
+	"exclude": [
+		"node_modules",
+		"lib"
+	]
 }

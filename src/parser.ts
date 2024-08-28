@@ -1,5 +1,5 @@
 import { createToken, Lexer, CstParser } from "chevrotain";
-import { fretboardModel } from './../pitch';
+import { fretboardModel } from '@allen508/pitch';
 
 const matchInteger = (text: string, startOffset: number) : any | RegExpExecArray | null => {
 
