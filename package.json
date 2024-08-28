@@ -1,0 +1,17 @@
+{
+  "name": "@allen508/tablang",
+  "version": "1.0.0",
+  "description": "Core package for Tab Language",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gary Allen",
+  "license": "",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "chevrotain": "^11.0.3"
+  }
+}
