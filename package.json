@@ -1,5 +1,12 @@
 {
   "name": "@allen508/tablang",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allen508/TabLang.git"
+  },
   "version": "1.0.0",
   "description": "Core package for Tab Language",
   "main": "lib/index.js",
